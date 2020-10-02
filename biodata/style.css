@@ -1,0 +1,47 @@
+
+.header{
+    background: rgb(84, 75, 88);
+    height: 10%;
+    font-size: 1.0em;
+    text-align: center;
+    padding-top: 20px;
+}
+.sidebar{
+    background: 	rgb(206, 201, 195);
+    height: 400px;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    width: 30%;
+}
+.content{
+    background: 	rgb(245, 243, 239);
+    height: 440px;
+    font-size: 0.8em;
+    text-align: center;
+    padding-top: 20px;
+    float: right;
+    width: 70%;
+}
+.footer{
+    background: rgb(56, 53, 61);
+    clear: both;
+    font-size: 0.8em;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.info{
+    width: 30%;
+    text-align: left;
+    float: right;
+    padding-right: 10px;
+}
+.cerita{
+    width: 60%;
+    text-align: left;
+    float: left; 
+    padding-left: 20px;
+}
+
